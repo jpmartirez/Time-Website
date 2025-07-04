@@ -15,7 +15,7 @@ To install and run the app locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com//react-date-time-app.git
+git clone https://github.com/jpmartirez/Time-Website.git
 cd react-date-time-app
 
 # Install dependencies
