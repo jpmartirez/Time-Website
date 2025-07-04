@@ -1,6 +1,6 @@
 # React Date and Time Display App
 
-This is a simple React.js web application that displays the **current date and time**. The time updates **every second** to stay accurate in real-time.
+This is a simple React.js web application (**with TailwindCSS**) that displays the **current date and time**. The time updates **every second** to stay accurate in real-time.
 
 ## 🚀 Features
 
